@@ -1,3 +1,9 @@
+---
+title: PoX Behavior
+publish: true
+draft: false
+---
+
 ## Reward Cycles
 
 This is how Stacks cycles are often displayed. So, naturally, many people think a Stacks cycle has its prepare phase at the front (also called the burn phase sometimes).
